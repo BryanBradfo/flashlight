@@ -242,7 +242,7 @@ function App() {
     if (instagramUser) formData.append('instagram_user', instagramUser);
 
     try {
-      const response = await axios.post('http://127.0.0.1:8000/analyze/', formData, {
+      const response = await axios.post('/api/analyze', formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
       });
       setSkillData(response.data);
