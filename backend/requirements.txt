@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-generativeai
+PyPDF2
+httpx
+beautifulsoup4
+lxml
+python-multipart
+cors-middleware-python # Ajout pour la communication frontend-backend
