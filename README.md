@@ -1,5 +1,7 @@
 # 🔦 Flashlight - Uncover Your Hidden Skills
 
+![Flashlight App Screenshot](frontend\src\assets\flashlight_img.png)
+
 *Built for the Global AI Hackathon – SAP "SkillSense" Challenge*
 
 Flashlight is an AI-powered application designed to revolutionize how we discover and validate skills. It moves beyond traditional resumes by aggregating data from multiple sources to build dynamic, evidence-based skill profiles, helping individuals answer the critical question: "What am I truly good at?"
